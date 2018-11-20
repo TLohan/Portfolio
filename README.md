@@ -1,5 +1,5 @@
 # Portfolio
-Inventory of projects I have created which show my proficiency in __Python__, __Java__, __C#__, __Angular__ and __.Net__. These projects also show my experience with __TDD__, __SOLID and other design patterns__ and some of the more advanced areas of OOP along with an ability to work with new frameworks and other technolgies.
+Below is an inventory of projects I have created which show my proficiency in __Python__, __Java__, __C#__, __Angular__ and __.Net__. These projects also show my experience with __TDD__, __SOLID and other design patterns__ and some of the more advanced areas of OOP along with an ability to work with new frameworks and other technolgies.
 
 
 ## Projects
